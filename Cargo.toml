@@ -1,8 +1,10 @@
 [package]
 name = "minigrep"
 version = "0.1.0"
-authors = ["Victor <zedfromionia@gmail.com>"]
+authors = ["shingravirei"]
 edition = "2018"
+description = "A little project that was made following the Rust Book"
+licese = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
